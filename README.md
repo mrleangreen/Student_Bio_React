@@ -32,4 +32,4 @@ See `package.json` for deployment configuration.
 
 - Email: tharry@usv.edu
 - GitHub: https://github.com/mrleangreen
-- Portfolio: https://your-portfolio-url.com
+
